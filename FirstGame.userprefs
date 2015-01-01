@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BritishDropOut.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\BritishDropOut.cs">
     <Files>
-      <File FileName="Assets/BritishDropOut.cs" Line="29" Column="19" />
+      <File FileName="Assets\Code\BritishDropOut.cs" Line="37" Column="18" />
+      <File FileName="Assets\Code\DumbBird.cs" Line="30" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
